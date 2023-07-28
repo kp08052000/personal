@@ -45,7 +45,7 @@ function App() {
               .start()
           }}
         />
-        <img className='profilePicture' src='./kp.jpg' alt=''></img>
+        <img className='profilePicture' src='./KP.jpg' alt=''></img>
         <ParticlesBg color='#000000' num={30} className="bg" type="cobweb" bg={true}></ParticlesBg>
       </div>
       <TypewriterComponent
